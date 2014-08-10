@@ -1,6 +1,2 @@
-.---------------------------------------------------------------------------.
-|  Cherrybridge                                                             |
-|   Copyright 2014 by Energy-Dev                                            |
-|      Site: http://wwww.energy-dev.de                                      |
-|      Support: http://wwww.support.energy-dev.de                           |
-.---------------------------------------------------------------------------.
+Copyright 2014 by Energy-Dev
+Support: http://www.support.energy-dev.de
